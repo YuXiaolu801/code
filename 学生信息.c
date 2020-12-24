@@ -1,4 +1,4 @@
-# 学生信息
+/*学生信息*/
 
 #include< iostream >
 
